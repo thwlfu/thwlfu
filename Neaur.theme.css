@@ -1,0 +1,15 @@
+//META{"name":"Neaur","description":"made by thwlfu","author":"thwlfu","version":"Auto Update"}*//
+@import url("https://codedotspectra.github.io/themes/neutron/importCSS/xcore.css");
+@import url('https://codedotspectra.github.io/themes/mini-themes/compactChannelsList.css');
+@import url('https://codedotspectra.github.io/themes/mini-themes/compactMemberList.css');
+@import url('https://codedotspectra.github.io/themes/mini-themes/seeThroughBackground.css');
+@import url('https://codedotspectra.github.io/themes/mini-themes/statusRounded.css');
+@import url('https://fonts.googleapis.com/css?family=Courier');
+:root {
+--brightness: 0;
+--customFont: 'Courier';
+--PrimaryColor01: #d6cafd;
+--PrimaryColorRGBA: rgba(214,202,253,.15);
+--PrimaryColor02: #cbf1ff;
+--NTBackgroundColor01: #434343;
+}
